@@ -1,48 +1,11 @@
 {
-  "people": [
-  {
-    "id": 1,
-    "degree": "Professor",
-    "firstname": "John",
-    "lastname": "Doe",
-    "email": "john@doe.com",
-    "position": "Studienrat",
-    "address": {
-      "street": "Teststrasse 123",
-      "city": "Testhausen",
-      "zipcode": "12345",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "01234/123456789",
-    "website": "www.test.de",
-    "company": {
-      "name": "Testfirma GmbH"
-    }
-  },
-  {
-    "id": 2,
-    "degree": "Doktor",
-    "firstname": "Max",
-    "lastname": "Mustermann",
-    "email": "max@mustermann.de",
-    "position": "Konrektor",
-    "address": {
-      "street": "Musterstrasse 1",
-      "city": "Musterhausen",
-      "zipcode": "54321",
-      "geo": {
-        "lat": "34.3519",
-        "lng": "79.4196"
-      }
-    },
-    "phone": "43210/987654321",
-    "website": "www.mustermann.de",
-    "company": {
-      "name": "Mustermann & Söhne"
-    }
-  } 
-]
-}  
+	"posts": [
+		{ "id": 1, "firstname": "Max", "lastname": "Mustermann", "degree": "Professor", "position": "Studienrat" },
+		{ "id": 2, "firstname": "David", "lastname": "Hasselhoff", "degree": "Doktor", "position": "Rektor" },
+		{ "id": 3, "firstname": "Magdalena", "lastname": "Müller", "degree": "", "position": "Studienrätin" }
+	],
+	"comments": [
+		{ "id": 1, "body": "some comment", "postId": 1 },
+		{ "id": 2, "body": "some comment", "postId": 2 }
+	]
+}
