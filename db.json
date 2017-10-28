@@ -2,7 +2,16 @@
 	"people": [
 		{ "id": 1, "firstname": "Max", "lastname": "Mustermann", "degree": "Professor", "position": "Studienrat" },
 		{ "id": 2, "firstname": "David", "lastname": "Hasselhoff", "degree": "Doktor", "position": "Rektor" },
-		{ "id": 3, "firstname": "Magdalena", "lastname": "Müller", "degree": "", "position": "Studienrätin" }
+		{ "id": 3, "firstname": "Magdalena", "lastname": "Müller", "degree": "Professor", "position": "Studienrätin" },
+		{ "id": 4, "firstname": "Hans", "lastname": "Ballermann", "degree": "", "position": "Studienrat" },
+		{ "id": 5, "firstname": "Tony", "lastname": "Testuser", "degree": "Professor", "position": "Studienrat" },
+		{ "id": 6, "firstname": "David", "lastname": "Dummy", "degree": "", "position": "Lehramtsanwärter" },
+		{ "id": 7, "firstname": "John", "lastname": "Doe", "degree": "Doktor", "position": "Studienrat" },
+		{ "id": 8, "firstname": "Johnny", "lastname": "Weissmüller", "degree": "", "position": "Studienrat" },
+		{ "id": 9, "firstname": "Urs", "lastname": "Stoßfänger", "degree": "Doktor", "position": "Oberstudienrat" },
+		{ "id": 10, "firstname": "Wilma", "lastname": "Webuser", "degree": "Professor", "position": "Lehramtsanwärterin" },
+		{ "id": 11, "firstname": "Daniela", "lastname": "Testmann", "degree": "", "position": "Konrektorin" },
+		{ "id": 12, "firstname": "Josefine", "lastname": "Jubelmann", "degree": "Doktor", "position": "Rektorin" }
 	],
 	"comments": [
 		{ "id": 1, "body": "some comment", "postId": 1 },
