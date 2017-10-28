@@ -1,4 +1,5 @@
-[
+{
+  "people": [
   {
     "id": 1,
     "degree": "Professor",
@@ -44,3 +45,4 @@
     }
   } 
 ]
+}  
