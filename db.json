@@ -1,5 +1,5 @@
 {
-	"posts": [
+	"people": [
 		{ "id": 1, "firstname": "Max", "lastname": "Mustermann", "degree": "Professor", "position": "Studienrat" },
 		{ "id": 2, "firstname": "David", "lastname": "Hasselhoff", "degree": "Doktor", "position": "Rektor" },
 		{ "id": 3, "firstname": "Magdalena", "lastname": "Müller", "degree": "", "position": "Studienrätin" }
