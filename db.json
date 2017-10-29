@@ -42,6 +42,18 @@
 		{ "id": 14, "confessionshort": "OB", "confessionfull": "ohne Glaubensbekenntnis" },
 		{ "id": 15, "confessionshort": "ZJ", "confessionfull": "Zeuge Jehovas" },
 		{ "id": 16, "confessionshort": "SO", "confessionfull": "sonstiges" }
-	]
+	],
+	"pupils": [
+		{ "id": 1, "firstname": "Maximilan", "lastname": "Mustermann", "birthday": "2005-05-07", "street": "Testgasse", "streetnumber": "124", "zipcode": "12345", "city": "Testheim", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 2, "firstname": "Hans", "lastname": "Hummermeier", "birthday": "2007-07-23", "street": "Am Testwall", "streetnumber": "44a", "zipcode": "98765", "city": "Testing", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 3, "firstname": "Wilma", "lastname": "Wasauchimmer", "birthday": "2002-02-27", "street": "Langstraße", "streetnumber": "19", "zipcode": "66999", "city": "Musterheim", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 4, "firstname": "Linda", "lastname": "Liebermann", "birthday": "2001-03-17", "street": "Dummydamm", "streetnumber": "20", "zipcode": "71134", "city": "Musterhausen", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 5, "firstname": "Markus", "lastname": "Muster", "birthday": "1999-04-15", "street": "Teststraße", "streetnumber": "21", "zipcode": "54733", "city": "Phantasiehausen", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 6, "firstname": "Hans", "lastname": "Hummermeier", "birthday": "1998-05-14", "street": "Hauptstrasse", "streetnumber": "4", "zipcode": "12333", "city": "München", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 7, "firstname": "Michael", "lastname": "Mock", "birthday": "2010-06-13", "street": "Goetheweg", "streetnumber": "1", "zipcode": "54187", "city": "Nürnberg", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 8, "firstname": "Lena", "lastname": "Hummermeier", "birthday": "2001-01-11", "street": "Schillerstrasse", "streetnumber": "25", "zipcode": "99222", "city": "Düsseldorf", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 9, "firstname": "Anna-Maria", "lastname": "Müller", "birthday": "2003-05-12", "street": "Wagnerweg", "streetnumber": "33", "zipcode": "87754", "city": "Gelsenkirchen", "hints": "Das ist eine globale Anmerkung zu einem Schüler" },
+		{ "id": 10, "firstname": "Urs", "lastname": "Umlaut", "birthday": "2002-02-22", "street": "Kurzallee", "streetnumber": "88c", "zipcode": "46532", "city": "Garmisch-Partenkirchen", "hints": "Das ist eine globale Anmerkung zu einem Schüler" }
+	]	
 }
                   
