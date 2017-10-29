@@ -13,8 +13,35 @@
 		{ "id": 11, "firstname": "Daniela", "lastname": "Testmann", "degree": "", "position": "Konrektorin" },
 		{ "id": 12, "firstname": "Josefine", "lastname": "Jubelmann", "degree": "Doktor", "position": "Rektorin" }
 	],
-	"comments": [
-		{ "id": 1, "body": "some comment", "postId": 1 },
-		{ "id": 2, "body": "some comment", "postId": 2 }
+	"grades": [
+		{ "id": 1, "gradename": "5a", "hints": "Mitunter schwierige Schüler" },
+		{ "id": 1, "gradename": "5b", "hints": "Hier steht irgendein Kommentar oder Anmerkung für die 5b" },
+		{ "id": 1, "gradename": "6a", "hints": "Hier steht irgendein Kommentar oder Anmerkung für die 6a" },
+		{ "id": 1, "gradename": "6b", "hints": "Whiteboard kommt sehr gut an bei den Schülern dieser Klasse." },
+		{ "id": 1, "gradename": "7a", "hints": "Hier steht irgendein Kommentar oder Anmerkung für die 7a" },
+		{ "id": 1, "gradename": "7b", "hints": "Hier steht irgendein Kommentar oder Anmerkung für die 7c" },
+		{ "id": 1, "gradename": "7c", "hints": "Die 7c macht gut mit und mag besonders Sport und Mathematik." },
+		{ "id": 1, "gradename": "8a", "hints": "Hier steht irgendein Kommentar oder Anmerkung für die 8a" },
+		{ "id": 1, "gradename": "8b", "hints": "Hier steht irgendein Kommentar oder Anmerkung für die 8b" },
+		{ "id": 1, "gradename": "9a", "hints": "Hier steht irgendein Kommentar oder Anmerkung für die 9a" }
+	],
+	"confessions": [
+		{ "id": 1, "confessionshort": "RK", "confessionfull": "römisch-katholisch" },
+		{ "id": 2, "confessionshort": "EV", "confessionfull": "evangelisch" },
+		{ "id": 3, "confessionshort": "AK", "confessionfull": "altkatholisch" },
+		{ "id": 4, "confessionshort": "AP", "confessionfull": "apostolisch" },
+		{ "id": 5, "confessionshort": "BA", "confessionfull": "baptistisch" },
+		{ "id": 6, "confessionshort": "BD", "confessionfull": "buddhistisch" },
+		{ "id": 7, "confessionshort": "CA", "confessionfull": "calvinistisch" },
+		{ "id": 8, "confessionshort": "GO", "confessionfull": "griechisch orthodox" },
+		{ "id": 9, "confessionshort": "FR", "confessionfull": "französisch reformiert" },
+		{ "id": 10, "confessionshort": "IS", "confessionfull": "islamisch" },
+		{ "id": 11, "confessionshort": "ML", "confessionfull": "moslemisch" },
+		{ "id": 12, "confessionshort": "JD", "confessionfull": "jüdisch" },
+		{ "id": 13, "confessionshort": "RO", "confessionfull": "russisch orthodox" },
+		{ "id": 14, "confessionshort": "OB", "confessionfull": "ohne Glaubensbekenntnis" },
+		{ "id": 15, "confessionshort": "ZJ", "confessionfull": "Zeuge Jehovas" },
+		{ "id": 16, "confessionshort": "SO", "confessionfull": "sonstiges" }
 	]
 }
+                  
